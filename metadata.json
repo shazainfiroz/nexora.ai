@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Guardian",
+  "description": "AI-powered emergency intelligence platform that acts when you cannot call for help.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
